@@ -43,17 +43,4 @@ TMDB 5000 Movie Dataset from Kaggle
 - NLTK (Stemming)
 - Streamlit
 - TMDB API
-```
 
-Press **Ctrl+S** to save.
-
-## Step 2 — Create .gitignore file
-
-Create a new file called `.gitignore` and paste:
-```
-venv/
-__pycache__/
-*.pyc
-.env
-data/
-*.pkl
